@@ -136,6 +136,6 @@ MIT License : https://github.com/ViaAnthroposBenevolentia/gemini-2-live-api-demo
 Gemini转成OpenAI格式： 
 ```
 Author: PublicAffairs
-Project: https://github.com/PublicAffairs/openai-gemini
-MIT License : https://github.com/PublicAffairs/openai-gemini/blob/main/LICENSE
+Project: https://github.com/abc/openai-gemini
+MIT License : https://github.com/abc/openai-gemini/blob/main/LICENSE
 ```
